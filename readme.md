@@ -1,0 +1,1 @@
+A basic bootcamp exercise to look at writing your own module and understanding the relationships between them and namespace
